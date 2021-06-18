@@ -1,6 +1,5 @@
 from scipy import fft
 from matplotlib.pylab import *
-import dtcwt
 import os
 import  numpy as np
 
